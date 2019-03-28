@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/jkoskey3/jkoskey3/_apis/build/status/jkoskey3.ContosoAir?branchName=master)](https://dev.azure.com/jkoskey3/jkoskey3/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
